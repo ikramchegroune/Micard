@@ -54,7 +54,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
            ),
            Text(
-            'Informatic Student', 
+            'Computer Science Student', 
             style: TextStyle(
                 fontFamily: 'Source Sans Pro',
                 fontSize: 35.0,
